@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:movie_app/Database%20helper.dart';
+import 'package:movie_app/Services/Database%20helper.dart';
 
-import 'Model/movie_model.dart';
+import '../Model/movie_model.dart';
 
 class fav_screen extends StatefulWidget {
   @override

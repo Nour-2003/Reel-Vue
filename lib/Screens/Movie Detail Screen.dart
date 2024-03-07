@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:movie_app/Database%20helper.dart';
-import 'package:movie_app/Fav%20Screen.dart';
+import 'package:movie_app/Services/Database%20helper.dart';
+import 'package:movie_app/Screens/Fav%20Screen.dart';
 import 'package:movie_app/Model/movie_model.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:google_fonts/google_fonts.dart';

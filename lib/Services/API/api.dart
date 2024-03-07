@@ -1,8 +1,7 @@
 import 'dart:convert';
-
-import 'package:movie_app/API/Constants.dart';
 import 'package:movie_app/Model/movie_model.dart';
 import 'package:http/http.dart' as http;
+import 'package:movie_app/Services/API/Constants.dart';
 
 class API {
   late String upComingApiUrl =
