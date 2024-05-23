@@ -1,4 +1,4 @@
-# Movie app
+# Reel Vue
 ![image](https://github.com/Nour-2003/movie_app/assets/102908746/295b97e9-ffb5-42ae-8271-2f34faf87366)
 
 ![image](https://github.com/Nour-2003/movie_app/assets/102908746/7f8c493d-0ca3-414a-8f5c-d92e6df20aed)
