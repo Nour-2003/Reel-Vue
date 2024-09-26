@@ -36,7 +36,16 @@ dependencies:
   url_launcher: ^6.2.4
   carousel_slider: ^4.0.0
   flutter_bloc: ^8.1.4
-
+  sqflite: ^2.3.0
+  path: ^1.8.2
+  intl: ^0.19.0
+  bloc: ^8.1.4
+  conditional_builder_null_safety: ^0.0.6
+  http: ^1.0.0
+  provider: ^6.1.2
+  hexcolor: ^3.0.1
+  shared_preferences: ^2.2.3
+  webview_flutter: ^4.8.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -46,10 +55,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   lottie: ^2.6.0
-  sqflite: ^2.3.0
-  path: ^1.8.2
+  flutter_launcher_icons: ^0.13.1
   intl: ^0.19.0
-
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "images/logo4.png"
+  min_sdk_android: 21 # android min sdk min:16, default 2
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
@@ -68,9 +80,18 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
   assets:
-  - images/Poster.jpg
+    - images/Poster.jpg
+    - images/Actor.jpg
+    - images/Actor2.jpeg
+    - images/logo.jpg
+    - images/logo2.jpg
+    - images/logo3.png
+    - images/logo4.png
+    - images/logo5.jpg
+    - images/Animation - 1720202353247.gif
+    - images/placeholder.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
