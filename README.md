@@ -1,6 +1,6 @@
 # Reel Vue
 
-## ![image](https://github.com/user-attachments/assets/8ef19d05-09e1-4434-a973-0a6d59dc2a12)  ![image](https://github.com/user-attachments/assets/68992644-f8ef-47a8-9e6e-007b37796a30) 
+Center(## ![image](https://github.com/user-attachments/assets/8ef19d05-09e1-4434-a973-0a6d59dc2a12)  ![image](https://github.com/user-attachments/assets/68992644-f8ef-47a8-9e6e-007b37796a30) )
 ## ![image](https://github.com/user-attachments/assets/69f41994-3b9c-4c0d-8b2c-bbf9ff6cbd2d)  ![image](https://github.com/user-attachments/assets/8311a331-4782-42ff-8fcc-effcae0376fa) 
 ## ![image](https://github.com/user-attachments/assets/93e5dc32-1f39-4d0a-8986-940b059413ff)  ![image](https://github.com/user-attachments/assets/07a3acbb-49ae-4afd-bbdb-548f33b2304f)
 ## ![image](https://github.com/user-attachments/assets/12d4456d-71b5-4234-af24-8d21a1185bd2)  ![image](https://github.com/user-attachments/assets/567623ed-6158-4401-b76a-98029bed019e)
