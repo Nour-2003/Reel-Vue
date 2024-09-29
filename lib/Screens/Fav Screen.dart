@@ -82,11 +82,19 @@ class _fav_screenState extends State<fav_screen> {
                         ),
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(15),
-                          child:Image.network(
-                            "https://image.tmdb.org/t/p/original/${movies[index]['image']}",
-                            height: 100,
-                            width: double.infinity,
-                            fit: BoxFit.cover,) ,
+                          // child:Image.network(
+                          //   "https://image.tmdb.org/t/p/original/${movies[index]['image']}",
+                          //   height: 100,
+                          //   width: double.infinity,
+                          //   fit: BoxFit.cover,) ,
+                          child: "https://image.tmdb.org/t/p/original/${movies[index]['image']}".isNotEmpty
+                              ? FadeInImage.assetNetwork(
+                              height: 100,
+                              width: double.infinity,
+                              fit: BoxFit.cover,
+                              placeholder: "images/Animation - 1720202353247.gif",
+                              image:"https://image.tmdb.org/t/p/original/${movies[index]['image']}")
+                              : Image.asset("images/placeholder.png"),
                         ),
                       ),
                     ),

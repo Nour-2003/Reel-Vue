@@ -46,7 +46,7 @@ dependencies:
   hexcolor: ^3.0.1
   shared_preferences: ^2.2.3
   webview_flutter: ^4.8.0
-
+  smooth_page_indicator: ^1.2.0+3
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -60,7 +60,7 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "images/logo4.png"
+  image_path: "images/movies.png"
   min_sdk_android: 21 # android min sdk min:16, default 2
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -81,16 +81,16 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/Poster.jpg
-    - images/Actor.jpg
-    - images/Actor2.jpeg
-    - images/logo.jpg
-    - images/logo2.jpg
-    - images/logo3.png
-    - images/logo4.png
-    - images/logo5.jpg
-    - images/Animation - 1720202353247.gif
-    - images/placeholder.png
+  - images/Poster.jpg
+  - images/Actor.jpg
+  - images/Actor2.jpeg
+  - images/logo4.png
+  - images/Animation - 1720202353247.gif
+  - images/placeholder.png
+  - images/movies.png
+  - images/Online movie ticket booking.png
+  - images/Online movie watching.png
+  - images/Video Editor.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
